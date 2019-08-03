@@ -1,0 +1,16 @@
+{
+  "name": "BudgetAppDeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d BudgetApp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://mikem2m.github.io/BudgetApp",
+  "dependencies": {
+    "gh-pages": "^2.1.0"
+  }
+}
