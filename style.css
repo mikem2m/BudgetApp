@@ -121,6 +121,7 @@ body {
 }
 
 .add__container {
+    width: 100%;
     margin: 0 0 0 0;
     text-align: center;
 }
