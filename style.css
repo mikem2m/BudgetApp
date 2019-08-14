@@ -21,6 +21,7 @@ body {
     position: relative;
     height: 100vh;
     font-weight: 400;
+    margin:0;
 }
 
 .right { float: right; }
@@ -286,3 +287,9 @@ h2 {
 
 .unpaid .item__percentage { box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); }
 .unpaid:hover .item__description { font-weight: 900; }
+
+@media (min-width: 500px) {
+    .Body {
+        width:100%;
+    }
+}
