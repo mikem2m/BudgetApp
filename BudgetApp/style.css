@@ -178,6 +178,7 @@ body {
     border-radius: 5px;
     transition: border 0.3s;
 }
+
 .add__type:focus,
 .add__description:focus,
 .add__value:focus {
@@ -287,9 +288,3 @@ h2 {
 
 .unpaid .item__percentage { box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); }
 .unpaid:hover .item__description { font-weight: 900; }
-
-@media (min-width: 500px) {
-    .Body {
-        width:100%;
-    }
-}
