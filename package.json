@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://mikem2m.github.io/BudgetApp",
+  "homepage": "https://mikem2m.github.io/BudgetApp",
   "dependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^2.0.1"
   }
 }
